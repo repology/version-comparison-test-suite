@@ -1,5 +1,7 @@
 # Version comparison test suite
 
+![CI](https://github.com/repology/version-comparison-test-suite/workflows/CI/badge.svg)
+
 This is a comprehensive test suite for version string comparison
 algorithms primary developed for
 [libversion](https://github.com/repology/libversion), advanced
