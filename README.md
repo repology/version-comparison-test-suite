@@ -21,7 +21,7 @@ defined flags which affect comparison.
 See [the test suite](version-comparison-tests.txt) for complete
 info on format.
 
-## License
+## Author
 
 * [Dmitry Marakasov](https://github.com/AMDmi3) <amdmi3@amdmi3.ru>
 
